@@ -125,3 +125,11 @@ footer {
   
     
 }
+i:hover{
+    transform: scale(1.5,1.5);
+
+}
+
+h4{
+    margin-left: 10px;
+}
